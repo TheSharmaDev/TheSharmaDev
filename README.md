@@ -1,7 +1,7 @@
 ![A image is supposed to be here :(](https://github.com/TheSharmaDev/TheSharmaDev/blob/main/aof3-wylermansion.gif)
 
 
-# 💫 Hi Bro, Rohit here:
+# 💫 Namaste Bro, Rohit here:
 I'm an M.Tech CS student who speaks fluent Python and occasionally argues with C++. <br>Passionate about Data Science and Cybersecurity — because making sense of data and breaking things (ethically) is fun.<br><br>🛠️ Tech I'm comfy with: Python, C++, HTML, CSS, Linux<br>🧠 I also nerd out over: System Design, OS, DBMS, Computer Networks<br>🎯 GATE CSE qualified (2024 & 2025) — yes, twice... because why not?<br><br>When not coding, I'm probably debugging my life decisions (send help).
 
 
